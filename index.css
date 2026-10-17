@@ -11,3 +11,15 @@ body {
 h1 {
     color: goldenrod;
 }
+#message-el {
+   font-style: italic;
+}
+button {
+    background-color:goldenrod;
+    color: #016f32;
+    font-weight: bold;
+    width: 150px;
+    padding: 5px 0px 5px 0px;
+    border: none;
+    border-radius: 2px;
+}
