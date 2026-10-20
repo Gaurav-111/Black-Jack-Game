@@ -16,8 +16,7 @@ function startGame(){
 }
 
 function renderGame(){
-    // cardsEl.textContent = 'Cards: '+cards[0]+' '+cards[1]
-    cardsEl.textContent = "Cards: " + firstCard + " " + secondCard
+    cardsEl.textContent = 'Cards: '+cards[0]+' '+cards[1]
     sumEl.textContent = 'Sum: '+sum
 
     if(sum <= 20){
