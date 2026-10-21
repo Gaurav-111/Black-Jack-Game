@@ -1,4 +1,5 @@
 {
     "terminal.integrated.suggest.enabled": true,
-    "editor.inlineSuggest.edits.allowCodeShifting": "never"
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "liveServer.settings.port": 5501
 }
